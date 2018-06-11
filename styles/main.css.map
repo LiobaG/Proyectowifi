@@ -1,0 +1,7 @@
+{
+"version": 3,
+"mappings": "AAAA,IAAI;EACF,gBAAgB,ECDJ,OAAO",
+"sources": ["../scss/component/_body.scss","../scss/core/_variables.scss"],
+"names": [],
+"file": "main.css"
+}
